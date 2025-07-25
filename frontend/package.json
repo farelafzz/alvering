@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fontsource/dm-sans": "^5.2.6",
     "@headlessui/react": "^2.2.6",
     "axios": "^1.8.4",
     "cra-template": "1.2.0",
