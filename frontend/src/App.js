@@ -5,7 +5,12 @@ import { ShoppingBag, Menu, X, Phone, Mail, Instagram } from 'lucide-react';
 import './App.css';
 
 // Import custom font
-import '@fontsource/dm-sans';
+import '@fontsource/dm-sans/300.css';
+import '@fontsource/dm-sans/400.css';
+import '@fontsource/dm-sans/500.css';
+import '@fontsource/dm-sans/600.css';
+import '@fontsource/dm-sans/700.css';
+import '@fontsource/dm-sans/800.css';
 
 function App() {
   const [cartItems, setCartItems] = useState([]);
